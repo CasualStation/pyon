@@ -1,0 +1,14 @@
+Team: /pyon/
+
+Team Colours:
+- 1st: #270327
+- 2nd: #270327
+
+Kit Colours:
+- 1st player: #270327 - #270327
+- 2nd player: #270327 - #270327
+
+- 1st GK: #270327 - #270327
+
+Other Notes:
+-
